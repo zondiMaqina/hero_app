@@ -6,7 +6,28 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif
+  font-family: sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#navigation-menu{
+  background-color: lightskyblue;
+}
+
+#navigation-menu ul{
+  display: flex;
+  font-weight: bold;
+}
+
+li a{
+  color: rgb(18, 48, 247);
+  font-size: calc(12px + 1vw);
+}
+
+li a:hover{
+  color: black;
+  filter: opacity(80%);
 }
 
 #heroes-gallery img{
@@ -14,5 +35,10 @@
 }
 
 h3{
+  margin: 10px 0;
   color: rgb(29, 76, 218);
+}
+
+li{
+  margin: 5px;
 }
