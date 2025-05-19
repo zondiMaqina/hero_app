@@ -6,8 +6,13 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: sans-serif
 }
 
 #heroes-gallery img{
   width: 100vw;
+}
+
+h3{
+  color: rgb(29, 76, 218);
 }
