@@ -4,7 +4,10 @@ This is the first FNB Academy coding project we get for week 2. The application 
 
 > [!NOTE]
 > To see the live view of the static web application, click here
-> -> (hero_app)
+> -> [hero_app](https://zondimaqina.github.io/hero_app/)
+
+> [!NOTE]
+> The navigtion bar will not lead you to other pages :), on my side, it is just for appearance that's all
 
 ## Structure of App
 
